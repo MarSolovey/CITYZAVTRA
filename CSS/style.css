@@ -43,7 +43,7 @@ body {
 .title_nav {
     width: 50%;
     height: 70px;
-    border-radius: 8px;
+    border-radius: 16px;
     background-color: white;
     display: flex;
     align-items: center;
@@ -225,7 +225,7 @@ body {
     width: 400px;
     height: 300px;
     margin-top: 50px;
-    border-radius: 8px;
+    border-radius: 16px;
     display: flex;
     flex-direction: column;
     justify-content: center;
